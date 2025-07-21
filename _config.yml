@@ -130,13 +130,13 @@ analytics:
 author:
   name             : "Sleeping Kingz LLC"
   avatar           : "/assets/images/label-avatar.png"
-  bio              : "A forward-thinking label dedicated to pushing the limits of music through visionary artists."
+  bio              : "An independent label committed to elevating visionary artists and redefining music."
   location         : "Global"
   email            : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:contact@sleepingkingz.com"
+      # url: "mailto:SleepingKingzLLC@proton.me"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://sleeping-kingz.github.io"
