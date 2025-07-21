@@ -19,9 +19,9 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Sleeping Kingz"
 title_separator          : "-"
-subtitle                 : "The official label of XiØN & OhHeyItsJae"
+subtitle                 : "Where Royalty Rests, Rappers Rise."
 name                     : "Sleeping Kingz LLC"
-description              : "A cutting-edge music label pushing the boundaries with artists like XiØN and OhHeyItsJae."
+description              : "An independent music label pushing the boundaries with artists like XiØN and OhHeyItsJae."
 url                      : "https://sleeping-kingz.github.io"
 baseurl                  : ""
 repository               : "Sleeping-Kingz/sleeping-kingz.github.io"
@@ -130,7 +130,7 @@ analytics:
 author:
   name             : "Sleeping Kingz LLC"
   avatar           : "/assets/images/label-avatar.png"
-  bio              : "A forward-thinking label dedicated to pushing the limits of music through visionary artists XiØN and OhHeyItsJae."
+  bio              : "A forward-thinking label dedicated to pushing the limits of music through visionary artists."
   location         : "Global"
   email            : ""
   links:
